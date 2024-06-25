@@ -8,8 +8,8 @@ This project leverages AI, specifically GPT models, to automate job applications
 
 Before diving into the project, you'll need to create two essential files with the provided template:
 
-1. **Text File:** Contains your resume and other relevant details to fill LinkedIn's Easy Apply forms. The filename for the text file should correspond to the initial segment of your email address used on LinkedIn. For example, if your email address is Ss*************99@gmail.com, the file should be named s***************99.txt.
-2. **JSON File:** Houses various configuration settings for the job application process. The filename for the JSON file should correspond to the initial segment of your email address used on LinkedIn. For example, if your email address is kodakandlasrikar99@gmail.com, the file should be named s*****************99.json.
+1. **Text File:** Contains your resume and other relevant details to fill LinkedIn's Easy Apply forms. The filename for the text file should correspond to the initial segment of your email address used on LinkedIn. For example, if your email address is s*************99@gmail.com, the file should be named s***************99.txt.
+2. **JSON File:** Houses various configuration settings for the job application process. The filename for the JSON file should correspond to the initial segment of your email address used on LinkedIn. For example, if your email address is s******************99@gmail.com, the file should be named s*****************99.json.
 
 Refer to the example files in this project for guidance on creating your own. As a Machine Learning Engineer, I have crafted both the JSON and Text files specifically for applying to Machine Learning roles, aligning closely with my preferences. Feel free to use these as templates to adapt for other roles.
 
