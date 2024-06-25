@@ -1,7 +1,4 @@
-"""
-Author: Bisnu Ray
-Telegram: https://t.me/SmartBisnuBio
-"""
+
 
 import os
 import io
