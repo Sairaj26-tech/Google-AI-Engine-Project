@@ -36,7 +36,7 @@ The JSON file is crucial for tailoring the application process to your preferenc
 
 ### 🏁 Launching the program
 
-To run this program, you need to run `python3 apply.py your_first_segment_mail_address`, Here the command line argument is the initial segment of your email address used on Linkedin. For example, if your email address is kodakandlasrikar99@gmail.com, then you will have to run `python3 apply.py kodakandlasrikar99`
+To run this program, you need to run `python3 apply.py your_first_segment_mail_address`, Here the command line argument is the initial segment of your email address used on Linkedin. For example, if your email address is s*****************99@gmail.com, then you will have to run `python3 apply.py s*******************99`
 
 ### 📝 Note:
 
