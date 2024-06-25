@@ -1,0 +1,14 @@
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.ico
+*.svg
+*.log
+*.csv
+*.xls
+DS_Store
+*.DS_Store
+*.pyc
+.pyo
