@@ -1,7 +1,5 @@
 # AI-Driven LinkedIn Job Application Bot 🤖
 
-![AI Robot Applying to Jobs](https://github.com/srikar-kodakandla/linkedin-easyapply-using-AI/blob/main/image.png)
-
 ## 📌 Overview
 
 This project leverages AI, specifically GPT models, to automate job applications on LinkedIn. It intelligently applies to jobs with the "Easy Apply" option and auto-fills application forms behalf of you.
@@ -10,8 +8,8 @@ This project leverages AI, specifically GPT models, to automate job applications
 
 Before diving into the project, you'll need to create two essential files with the provided template:
 
-1. **Text File:** Contains your resume and other relevant details to fill LinkedIn's Easy Apply forms.  For guidance, refer to `kodakandlasrikar99.txt`. The filename for the text file should correspond to the initial segment of your email address used on LinkedIn. For example, if your email address is kodakandlasrikar99@gmail.com, the file should be named kodakandlasrikar99.txt.
-2. **JSON File:** Houses various configuration settings for the job application process. The filename for the JSON file should correspond to the initial segment of your email address used on LinkedIn. For example, if your email address is kodakandlasrikar99@gmail.com, the file should be named kodakandlasrikar99.json.
+1. **Text File:** Contains your resume and other relevant details to fill LinkedIn's Easy Apply forms. The filename for the text file should correspond to the initial segment of your email address used on LinkedIn. For example, if your email address is Ss*************99@gmail.com, the file should be named s***************99.txt.
+2. **JSON File:** Houses various configuration settings for the job application process. The filename for the JSON file should correspond to the initial segment of your email address used on LinkedIn. For example, if your email address is kodakandlasrikar99@gmail.com, the file should be named s*****************99.json.
 
 Refer to the example files in this project for guidance on creating your own. As a Machine Learning Engineer, I have crafted both the JSON and Text files specifically for applying to Machine Learning roles, aligning closely with my preferences. Feel free to use these as templates to adapt for other roles.
 
@@ -27,12 +25,12 @@ The JSON file is crucial for tailoring the application process to your preferenc
 - `locations`: List of preferred job locations.
 - `remote`: Set to `true` or `false`. If true, the bot searches for remote jobs.
 - `hybrid`: Set to `true` or `false`. If true, the bot searches for hybrid jobs. If both `remote` and `hybrid` are true, it searches for both types. If both are false, it considers all job types (onsite, remote, hybrid).
-- `telegram_token_id`: Your Telegram bot token for receiving updates on job applications and filled forms. To learn how to obtain the Telegram bot token ID and chat ID, refer to this [Youtube](https://www.youtube.com/watch?v=pqcU979MlcE) video.
+- `telegram_token_id`: Your Telegram bot token for receiving updates on job applications and filled forms. 
 - `telegram_chat_id`: Your Telegram chat ID for receiving updates.
 - `token_cookie_chatgpt`: ChatGPT cookie token. To obtain, visit [ChatGPT](https://chat.openai.com), press F12 for developer tools, find the `__Secure-next-auth.session-token` cookie, and copy its value.
 - `headless_mode_chatgpt`: Set to `true` or `false`. If true, runs ChatGPT UI browser in headless mode. Currently, set it to false due to a known bug.
 - `model_name`: The GPT model name (e.g., "gpt-4", "gpt-3.5").
-- `gemini_api_key`: API key for Google Gemini. Obtain it [here](https://makersuite.google.com/app/apikey).
+- `gemini_api_key`: API key for Google Gemini.
 - `chatgpt_timeout`: Time in seconds (default 120) to wait before retrying a request in case of an error with ChatGPT response extraction.
 - `GPT_backend_selection`: Choose between "chatgpt" and "gemini". Use "chatgpt" for ChatGPT token or "gemini" for Gemini API key.
 
@@ -48,13 +46,6 @@ To run this program, you need to run `python3 apply.py your_first_segment_mail_a
 - Gemini might be a better option if ChatGPT is slow, though currently, GPT-3.5 and GPT-4 seems more accurate in answering questions in this task than Gemini. But if you find Gemini is performing well for you, please free to use it.
 - This project uses Undetected-Chromedriver to keep the bot hidden and prevent it from being blocked.
 
-## 🌟 If You Like the Project, Please Star it!
-
-If you find this AI-driven job application bot helpful or interesting, please consider giving it a star on GitHub. Your support helps to increase the visibility of the project and encourages future developments and improvements. Just click on the star icon at the top of the page – it means a lot!
-
-## ⚖️ License
-
-This project is licensed under the [Apache License](LICENSE).
 
 ### ⚠️ Important Warning ⚠️
 
