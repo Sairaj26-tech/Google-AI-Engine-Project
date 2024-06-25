@@ -1,9 +1,6 @@
 <img src="https://www.gettingstarted.ai/content/images/2023/12/GS-Beginner-Guide-Using-Google-Gemini-Pro-Vision-Google-AI-Studio.png" alt="Gemini Vision Pro Logo" width="640" height="480">
 
 
-<a href="https://www.buymeacoffee.com/haseebheaven"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=haseebheaven&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
-
 🚀 **_Description:_** 🚀 This is the amazing Google Gemini Vision Pro 📸, a powerful tool that scans images, generates descriptions using Gemini AI Pro Vision API, and provides speech feedback 🗣️. It also captures images using the webcam 🖥️.
 
 ## 🌟 **Introduction** 🌟
@@ -103,15 +100,9 @@ Follow these links for **Google Gemini Vision Pro** related content:
 
 - **Version**: 1.0 : Initial Release
 
-## **Contributing**
-
-We welcome contributions! Please follow our [**Contribution Guidelines**](CONTRIBUTING.md) to get started.
 
 ## **License**
 
-This project is licensed under the **MIT License** - see the [**LICENSE**](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [**LICENSE**]
 
-## **Author**
 
-- **_HeavenHM_**
-- **_Date:_** 17-12-2023
