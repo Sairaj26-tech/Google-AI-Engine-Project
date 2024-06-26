@@ -4,8 +4,8 @@ Google's AI technology is used to analyze and understand the content of webpages
 Gemma, Gemini, Palm
 ## List of project which is achieved using Google AI engine:
 ### Gemini - 
-Voice-chatbot
-LinkedIn-easyapply-using-AIengine
+\Voice-chatbot
+\LinkedIn-easyapply-using-AIengine
 PDF-reader-auto-recommendation
 MetaGen-AI
 Whatsapp-AIBot
