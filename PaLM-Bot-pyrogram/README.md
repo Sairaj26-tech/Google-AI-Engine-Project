@@ -1,4 +1,5 @@
 # PaLM Telegram Bot
+A telegram bot that interacts with Google's PaLM Chat API and can be hosted on serverless functions.  
 
 # Requirements
 
