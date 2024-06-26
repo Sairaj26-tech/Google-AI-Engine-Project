@@ -1,11 +1,5 @@
 # PaLM Telegram Bot
-A telegram bot that interacts with Google's PaLM Chat API and can be hosted on serverless functions.
-
-> Looking for serverless verson based on aiogram? <br>
-> Check out [this](https://github.com/EverythingSuckz/PaLM-Bot/tree/aiogram) branch.
-
-# Demo
-A working demo can be found at [@NotAIChatBot](https://telegram.dog/NotAIChatBot).
+A telegram bot that interacts with Google's PaLM Chat API and can be hosted on serverless functions.  
 
 # Requirements
 
@@ -43,7 +37,3 @@ source venv/bin/activate # Linux
 pip install -r requirements.txt
 python -m bot
 ```
-
-_Based on [pyrogram](https://github.com/pyrogram/pyrogram)._
-
-**Give a ⭐ if you like this project!**
