@@ -23,4 +23,6 @@ Gemma, Gemini, PaLM
 #### QnA_Google_PaLM-main
 #### An open-source implementation of Google's PaLM models
 #### google-cloud-paLM-api
+#### Text-To-SQL-LLM-App-with-MYSQL-SteamLit-LangChain-using-Google-Palm-main
+#### Google-palm-ai_telegram_bot
 
