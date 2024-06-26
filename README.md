@@ -19,4 +19,5 @@ Gemma, Gemini, Palm
 #### Document-ChatBot-Google-Gamma-search-engine
 #### Finetunning
 ### Palm-
+#### PaLM-Bot-pyro-telegram
 
