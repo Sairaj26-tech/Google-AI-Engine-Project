@@ -5,18 +5,18 @@ Gemma, Gemini, Palm
 ## List of project which is achieved using Google AI engine:
 ### Gemini - 
 #### Voice-chatbot
-LinkedIn-easyapply-using-AIengine
-PDF-reader-auto-recommendation
-MetaGen-AI
-Whatsapp-AIBot
-Vision-pro-master
-Auto-chatBot
+#### LinkedIn-easyapply-using-AIengine
+#### PDF-reader-auto-recommendation
+#### MetaGen-AI
+#### Whatsapp-AIBot
+#### Vision-pro-master
+#### Auto-chatBot
 ### Gemma-
-ChatBot-Gradio-Hugging-face
-Diat-and -workout-Recommendation
-Document-Q-A-ChatBot
-End-to-End-Q-A-Analysis
-Document-ChatBot-Google-Gamma-search-engine
-Finetunning
+#### ChatBot-Gradio-Hugging-face
+#### Diat-and -workout-Recommendation
+#### Document-Q-A-ChatBot
+#### End-to-End-Q-A-Analysis
+#### Document-ChatBot-Google-Gamma-search-engine
+#### Finetunning
 ### Palm-
 
