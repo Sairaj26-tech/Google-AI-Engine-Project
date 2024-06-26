@@ -21,4 +21,6 @@ Gemma, Gemini, PaLM
 ### PaLM-
 #### PaLM-Bot-pyro-telegram
 #### QnA_Google_PaLM-main
+#### An open-source implementation of Google's PaLM models
+#### google-cloud-paLM-api
 

@@ -9,12 +9,9 @@ In this section of the notebook, we explore question-answering with PaLM API. Si
 In this section of the notebook, we explore text summarization with PaLM API. There are two main summarization types - extractive and abstractive. This notebook shows a simple summarization example using a Streamlit app, and the `text-bison@001` text generation model.
 <img src="./../images/text-summarization.png" alt="text-summarization" height="300"/>
 
-To deploy on [Railway](https://railway.app/?referralCode=alphasec) using a one-click template, click the button below.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/pJBeo1?referralCode=alphasec)
 
-To open the Python notebook in Google Colab, click the button below.
 
-[![Open In Colab](../images/colab.svg)](https://colab.research.google.com/github/alphasecio/google-cloud/blob/main/palm-api/google_palm.ipynb)
+
 
 *Disclaimer: This is not an officially supported Google or Google Cloud project; it is a personal project created for educational and experimental purposes.*
