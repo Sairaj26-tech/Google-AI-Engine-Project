@@ -36,6 +36,3 @@ To end the chat session, type any of the exit commands (`exit`, `quit`, `stop`, 
 
 This application is designed for educational purposes only. Please ensure you comply with Google's API usage policies and guidelines.
 
-## Support
-
-For issues and inquiries, please refer to the [Google Gemini-Pro documentation](https://developers.google.com/generative-ai/gemini/pro) or open an issue in this repository.
