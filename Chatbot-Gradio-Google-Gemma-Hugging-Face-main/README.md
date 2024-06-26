@@ -21,4 +21,3 @@ The dependencies are:
 
 ***
 
-For more insights please see: https://ingegnerealbano.com/chatbot-in-python-con-gradio-e-google-gemma-sfruttando-hugging-face/
