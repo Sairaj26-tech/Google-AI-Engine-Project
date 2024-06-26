@@ -18,6 +18,7 @@ Gemma, Gemini, PaLM
 #### End-to-End-Q-A-Analysis
 #### Document-ChatBot-Google-Gamma-search-engine
 #### Finetunning
-### Palm-
+### PaLM-
 #### PaLM-Bot-pyro-telegram
+#### QnA_Google_PaLM-main
 
