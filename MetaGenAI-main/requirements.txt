@@ -1,0 +1,9 @@
+textblob
+streamlit
+polyfile
+pandas
+nltk
+matplotlib
+seaborn
+lxml
+tabulate
