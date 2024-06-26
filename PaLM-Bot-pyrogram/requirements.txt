@@ -1,0 +1,7 @@
+python-dotenv
+pyrogram
+tgcrypto
+google-generativeai
+sqlalchemy
+pony
+psycopg2-binary
