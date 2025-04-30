@@ -6,7 +6,7 @@ faiss-cpu==1.7.4
 google-generativeai
 InstructorEmbedding==1.0.1
 langchain-community
-torch==2.1.2
+torch==2.7.0
 sentence-transformers==2.2.2
 protobuf~=3.19.0
 tqdm
